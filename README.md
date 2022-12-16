@@ -1,6 +1,6 @@
 [원문: https://github.com/airbnb/javascript](https://github.com/airbnb/javascript)
 
-# Airbnb JavaScript 스타일 가이드() {
+# Squares JavaScript 스타일 가이드(jay, ks) {
 
 *대체로 합리적인 JavaScript 접근 방법*
 
